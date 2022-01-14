@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there 👋, my name is Tpfaa 
+[<img src='https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg' alt='linkedin' height='30'>](https://dev.to/ihchowdhury)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/ibrahimchowdhury/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/5032512)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](http://ibrahimchowdhury.me/)
 
-<!--
-**Tofaa2/Tofaa2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2+ years of experience in designing and developing scalable and highly available software­-​as­-​a­​service applications using Java stack.  I am always open in working with new tech stack. Following are my current tech stack.
 
-Here are some ideas to get you started:
+Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Backend: Java8, Spring MVC, Spring Boot, Hibernate, Restful Services, Microservices
+- Frontend: HTML5, CSS3, Jquery
+- Database: Oracle Sql, MySql
+- Build tools: Maven, Gradlew
+- Servers: Tomcat
+- Cloud: AWS
+- Version Control: Git
+- Prototyping: JustInMind
+- IDE: Intellij IDEA, VS Code, Eclips, Netbeans
+- Operating System: Linux, Mac, Windows
+- Project Management:Scrum
+
+Soft Skills:
+
+- Problem Solving, TeamWork, Communication 
+
+
+Future Plans:
+
+- Attempting to get more into open source code. Might release some of my private repo's
+
+![Tofaa's github stats](https://github-readme-stats.vercel.app/api?username=Tofaa&show_icons=true&theme=radical)
