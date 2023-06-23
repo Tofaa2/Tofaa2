@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Tofaa 
 ![Views](https://komarev.com/ghpvc/?username=Tofaa2)
 
-2+ years of experience in designing and developing scalable and highly available software­-​as­-​a­​service applications using Java stack.  I am always open in working with new tech stack. Following are my current tech stack.
+4+ years of experience in designing and developing scalable and highly available software­-​as­-​a­​service applications using Java stack.  I am always open in working with new tech stack. Following are my current tech stack.
 
 Tech Stack:
 
