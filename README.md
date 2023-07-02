@@ -7,7 +7,7 @@ Tech Stack:
 
 - Backend: Java8, Kotlin, Spring MVC, Spring Boot, Hibernate, Restful Services, Microservices
 - Frontend: HTML5, CSS3, Jquery
-- Database: Oracle Sql, MySql
+- Database: Oracle Sql, MySql, MongoDB, PostgreSQL, Redis
 - Build tools: Maven, Gradlew
 - Servers: Tomcat
 - Cloud: AWS
