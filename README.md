@@ -26,5 +26,4 @@ Future Plans:
 
 - Attempting to get more into open source code. Might release some of my private repo's
 
-[![Tofaa's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Tofaa2&show_icons=true&theme=dark#gh-dark-mode-only)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tofaa2)](https://github.com/anuraghazra/github-readme-stats)
+[![Tofaa's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Tofaa2&show_icons=true&theme=tokyonight)]
